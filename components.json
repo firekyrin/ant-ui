@@ -1,0 +1,4 @@
+{
+    "font": "./src/assets/font/iconfont.css",
+    "actionsheet": "./packages/actionsheet/index.js"
+}

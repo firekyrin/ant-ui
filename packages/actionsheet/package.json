@@ -1,0 +1,13 @@
+{
+    "name": "ant-actionsheet",
+    "description": "An action sheet component for vue.js",
+    "version": "0.1.0",
+    "main": "lib/index.js",
+    "author": "firekyrin",
+    "homepage": "https://github.com/firekyrin/ant-ui",
+    "license": "MIT",
+    "responsitory": "",
+    "dependencies": {
+        
+    }
+}
